@@ -1,7 +1,7 @@
 # 🎮 Minecraft Texture Galeri
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green?style=flat-square)](https://yourusername.github.io/minecraft-texture-gallery/)
-[![Textures](https://img.shields.io/badge/Textures-1083-blue?style=flat-square)](https://yourusername.github.io/minecraft-texture-gallery/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green?style=flat-square)](https://bobiandbobi.github.io/minacraftia/)
+[![Textures](https://img.shields.io/badge/Textures-1083-blue?style=flat-square)](https://bobiandbobi.github.io/minacraftia/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 > **1083** adet Minecraft texture'ını keşfet ve incele!
@@ -18,7 +18,7 @@
 
 ## 🚀 Canlı Demo
 
-**[👉 Web sitesini ziyaret et](https://yourusername.github.io/minecraft-texture-gallery/)**
+**[👉 Web sitesini ziyaret et](https://bobiandbobi.github.io/minacraftia/)**
 
 ## 📊 İstatistikler
 
@@ -36,7 +36,7 @@
 
 ## 🎯 Kullanım
 
-1. [Web sitesini aç](https://yourusername.github.io/minecraft-texture-gallery/)
+1. [Web sitesini aç](https://bobiandbobi.github.io/minacraftia/)
 2. Arama çubuğunu kullanarak texture ara
 3. Filtreleri kullanarak sonuçları daralt
 4. Texture'ları keşfet!
@@ -64,8 +64,8 @@ minecraft-texture-gallery/
 
 ```bash
 # Repository'yi klonla
-git clone https://github.com/yourusername/minecraft-texture-gallery.git
-cd minecraft-texture-gallery
+git clone https://github.com/BobiandBobi/minacraftia.git
+cd minacraftia
 
 # Basit HTTP server başlat
 python -m http.server 8000
@@ -95,9 +95,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📞 İletişim
 
-- **Website**: [https://yourusername.github.io/minecraft-texture-gallery/](https://yourusername.github.io/minecraft-texture-gallery/)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/minecraft-texture-gallery/issues)
+- **Website**: [https://bobiandbobi.github.io/minacraftia/](https://bobiandbobi.github.io/minacraftia/)
+- **GitHub**: [@BobiandBobi](https://github.com/BobiandBobi)
+- **Issues**: [GitHub Issues](https://github.com/BobiandBobi/minacraftia/issues)
 
 ---
 
