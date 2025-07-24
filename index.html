@@ -506,7 +506,7 @@
     </style>
 </head>
 <body>
-    <a href="https://github.com/yourusername/minecraft-texture-gallery" class="github-corner" aria-label="View source on GitHub">
+    <a href="https://github.com/BobiandBobi/minacraftia" class="github-corner" aria-label="View source on GitHub">
         <svg viewBox="0 0 250 250" aria-hidden="true">
             <path d="m0,0 0,250 250,0 0,-250z" fill="currentColor"/>
             <path d="m0,0 115,115 0,25 25,0 0,-25 0,-115z" fill="white"/>
@@ -592,6 +592,9 @@
     </div>
 
     <script>
+        // GitHub raw URL base
+        const GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/BobiandBobi/minacraftia/main/images/';
+        
         // Texture verileri
         const texturesData = [
   {
@@ -10454,7 +10457,7 @@
             textureContainer.innerHTML = currentTextures.map(texture => `
                 <div class="texture-card">
                     <div class="texture-image">
-                        <img src="https://raw.githubusercontent.com/BobiandBobi/minacraftia/main/${texture.image_url}" 
+                        <img src="${GITHUB_RAW_BASE}${texture.filename}" 
                              alt="${texture.filename}" 
                              loading="lazy"
                              onerror="this.src='https://via.placeholder.com/64x64/cccccc/666666?text=404'">
